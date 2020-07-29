@@ -41,3 +41,6 @@ examples/ios/swiper.xcodeproj/xcuserdata
 jsconfig.json
 .expo/
 web-build/
+
+#Ignore lock file
+*.lock
